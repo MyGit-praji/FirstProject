@@ -4,9 +4,5 @@
     "**/bower_components": true,
     "**/.sf": true,
     "**/.sfdx": true
-  },
-  "workbench.colorCustomizations": {
-    "statusBar.background": "#a66004",
-    "activityBar.background": "#a66004"
   }
 }
