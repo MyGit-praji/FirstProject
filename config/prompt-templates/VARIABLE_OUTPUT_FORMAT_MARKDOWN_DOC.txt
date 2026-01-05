@@ -1,0 +1,1 @@
+The output will be in markdown format, which will be used in a documentation site aiming to retrospectively document the Salesforce org.
