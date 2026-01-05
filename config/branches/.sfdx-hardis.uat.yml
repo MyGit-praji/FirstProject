@@ -1,7 +1,0 @@
-mergeTargets:
-  - prod
-targetUsername: test-83lz9otq4rwk@example.com
-instanceUrl: https://speed-flow-5993-dev-ed.scratch.my.salesforce.com
-scratchOrg:
-  enabled: true
-  days: 7
