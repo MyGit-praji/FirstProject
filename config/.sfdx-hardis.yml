@@ -1,0 +1,32 @@
+apexTestsMinCoverageOrgWide: 75
+developmentBranch: integration
+devHubAlias: ''
+devHubInstanceUrl: https://login.salesforce.com
+devHubUsername: ''
+enableDeltaDeploymentBetweenMajorBranches: true
+enableDeploymentApexTestClasses: true
+enableDeprecatedDeploymentPlan: true
+installPackagesDuringCheckDeploy: true
+manualActionsFileUrl: ''
+newTaskNameRegex: ''
+newTaskNameRegexExample: ''
+sharedDevSandboxes: false
+useDeltaDeployment: true
+useDeltaDeploymentWithDependencies: true
+useSmartDeploymentTests: true
+allowedOrgTypes:
+  - scratch
+  - sandbox
+autoCleanTypes:
+  - caseentitlement
+  - checkPermissions
+  - dashboards
+  - datadotcom
+  - destructivechanges
+  - flowPositions
+  - localfields
+  - listViewsMine
+  - minimizeProfiles
+  - productrequest
+  - sensitiveMetadatas
+  - systemDebug
