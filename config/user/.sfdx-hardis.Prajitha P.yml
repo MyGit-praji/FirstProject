@@ -15,3 +15,5 @@ sfdxPluginsStdout: |
   @salesforce/sfdx-plugin-lwc-test 1.2.1
 installedApps:
   - git
+  - openssl
+userEmail: e235@minusculetechnologies.com
